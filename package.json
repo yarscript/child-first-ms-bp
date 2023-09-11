@@ -1,10 +1,10 @@
 {
-  "name": "rabbit-ms",
+  "name": "child-firmst-ms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
